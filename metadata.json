@@ -1,0 +1,6 @@
+{
+  "name": "DigiAgent - DMT, AePS & BBPS Portal",
+  "description": "Professional BC DigiSeva portal for Money Transfer (DMT), AePS, Mobile Recharge, BBPS Utility Bills, DTH, OTT Subscriptions, Insurance, and LIC Premium renewal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
